@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Pratham Saxena  
 
 💻 Computer Science Engineering Student (3rd Year)  
-🚀 Passionate about Machine Learning & Artificial Intelligence  
+🚀 Passionate about Machine Learning & Artificial Intelligence
 
 ---
 
