@@ -28,12 +28,13 @@
 
 ## 🧠 Soft Skills
 
-![Communication](https://img.shields.io/badge/Communication-Effective-%23FF4DB8?style=for-the-badge&logo=wechat&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Analytical-%232ECC71?style=for-the-badge&logo=codementor&logoColor=white)
-![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-Strong-%23FFD93D?style=for-the-badge&logo=handshake&logoColor=black)
-![Creative Thinking](https://img.shields.io/badge/Creative%20Thinking-Innovative-%23FF2D95?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
-![Attention to Detail](https://img.shields.io/badge/Attention%20to%20Detail-Precise-%23FF4C4C?style=for-the-badge&logo=target&logoColor=white)
+## 🧠 Soft Skills
 
+![Effective Communication](https://img.shields.io/badge/Effective%20Communication-%23FF4DB8?style=for-the-badge&logo=wechat&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-%232ECC71?style=for-the-badge&logo=codementor&logoColor=white)
+![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-%23FFD93D?style=for-the-badge&logo=handshake&logoColor=black)
+![Creative Thinking](https://img.shields.io/badge/Creative%20Thinking-%23FF2D95?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
+![Attention to Detail](https://img.shields.io/badge/Attention%20to%20Detail-%23FF4C4C?style=for-the-badge&logo=target&logoColor=white)
 ---
 
 ### 🚀 Current Focus
