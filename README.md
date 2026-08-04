@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Pratham Saxena  
 
-💻 Computer Science Engineering Student (3rd Year)  
+💻 Computer Science Engineering Student (Final Year)  
 🚀 Passionate about Machine Learning, Artificial Intelligence and DSA
 
 ---
